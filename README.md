@@ -1,5 +1,5 @@
 <a href="https://github.com/keljtanoski">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=keljtanoski&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=keljtanoski&theme=tokyonight&show_icons=true&bg_color=ffffff00&include_all_commits=true&count_private=true&hide_border=true" />
 </a>
 
 ### Hi there 👋
